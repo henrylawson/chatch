@@ -1,4 +1,3 @@
-chatch
-======
+# chatch
 
-Chart Matching In Clojure
+A simple chart matching tool.
